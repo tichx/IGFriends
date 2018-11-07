@@ -24,19 +24,7 @@ try {
 $followed_by = [];
 // main
 try {
-	$list = "icon.huk
-yoyojilao
-nu_knij
-katie_wng
-grateful_melo
-crystalzhyl
-_ryan_chiu
-ziva.xu
-zh_vincent
-yaoyufei
-wu_yifan
-wang_peicheng
-uwubaa
+	$list = "uwubaa
 raynor_of_xiang
 luciawang0629
 jessicazhang886699
