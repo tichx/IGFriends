@@ -7,7 +7,7 @@ require __DIR__ . '/../vendor/autoload.php';
 \InstagramAPI\Instagram::$allowDangerousWebUsageAtMyOwnRisk = true;
 /////// CONFIG ///////
 $username = '5.8ft';
-$password = 'Xtc980326@zwy';
+$password = '';
 $debug = false;
 $truncatedDebug = false;
 //////////////////////
